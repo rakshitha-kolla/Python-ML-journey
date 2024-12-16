@@ -66,7 +66,7 @@ To get started with the code, clone this repository and install the required dep
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Python-ML-Journey.git
+git clone https://github.com/Rakshitha0987/Python-ML-Journey.git
 
 # Navigate to the folder
 cd Python-ML-Journey
@@ -84,7 +84,7 @@ Contributions are always welcome! Follow these steps to contribute:
 1. **Fork the repository** to your GitHub account.  
 2. **Clone your forked repository** to your local machine:  
    ```bash
-   git clone https://github.com/<your-username>/Python-ML-Journey.git
+   git clone https://github.com/Rakshitha0987/Python-ML-Journey.git
    cd Python-ML-Journey
 3. Create a new branch for your feature or fix:
 git checkout -b feature-name
@@ -102,7 +102,7 @@ git push origin feature-name
 I’d love to hear your feedback or collaborate on projects!  
 Feel free to reach out via:
 - **Email**: krakshitha0987@gmail.com
-- **GitHub**:
+- **GitHub**:Rakshitha0987
 
 ---
 
