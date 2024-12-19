@@ -1,0 +1,7 @@
+ID=R200260
+Name= Bhuma Naga Pavan
+Roll No.=45
+Branch=CSE
+Year=2nd
+CGPA=8.8
+Address=Proddatur

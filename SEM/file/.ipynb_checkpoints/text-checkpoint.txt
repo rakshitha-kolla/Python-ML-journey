@@ -1,0 +1,11 @@
+Database Architecture
+An early proposal for a standard terminology and general
+architecture database a system was produced in 1971 by
+the Data Base Task Group (DBTG) appointed by the
+Conference on data systems and languages.
+The DBTG recognized the need for a two level approach
+with a system view called the schema and user called
+subschema.
+The American National Standard Institute terminology
+and architecture in 1975. ANSI-SPARC recognized the
+need for a three level approach with a system catalog.

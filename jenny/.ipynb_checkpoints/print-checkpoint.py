@@ -1,0 +1,6 @@
+print('First program-python print function \n it is declared like this: \n print( \" Hello World \" )')
+print('First program-python print function \n it is declared like this: \n print( \' Hello World \' )')
+print("hello"+"jenny")
+print("hello "+"jenny")
+print("hello"+" "+ "jenny")
+print("hello"+" "+input("enter ur name"))
